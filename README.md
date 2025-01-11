@@ -8,4 +8,7 @@ Working repository containing data dumps of assumed power readings and code to a
 - **Long Packets YouTube Example (Filtered).xlsx** - Data as seen in the YouTube video
 - **Power Readings (00FF00-03) Labeled.xlsx** - Same as above but without the filters and resizing, same data set though
 
+Associated youtube video: https://www.youtube.com/watch?v=G7YCLHCUJfU
+
+
 # HACK THE PLANET!
